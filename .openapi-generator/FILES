@@ -1,0 +1,7 @@
+src/main/generated/org/cleancoders/lookupservice/controller/ApiUtil.java
+src/main/generated/org/cleancoders/lookupservice/controller/DroneApi.java
+src/main/generated/org/cleancoders/lookupservice/controller/MedicationApi.java
+src/main/generated/org/cleancoders/lookupservice/model/DroneModelDto.java
+src/main/generated/org/cleancoders/lookupservice/model/DronePageDto.java
+src/main/generated/org/cleancoders/lookupservice/model/MedicationModelDto.java
+src/main/generated/org/cleancoders/lookupservice/model/ProblemDto.java

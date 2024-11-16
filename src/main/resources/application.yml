@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: lookup-service
+
+springdoc:
+  swagger-ui:
+    path: /
+    url: /lookups.yaml
