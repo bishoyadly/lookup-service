@@ -1,4 +1,4 @@
-package org.cleancoders.lookupservice.controller;
+package org.cleancoders.lookupservice.web.controllers;
 
 import org.springframework.web.bind.annotation.RestController;
 @RestController
