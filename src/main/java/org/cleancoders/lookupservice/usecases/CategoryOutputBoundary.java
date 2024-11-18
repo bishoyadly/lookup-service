@@ -1,7 +1,9 @@
 package org.cleancoders.lookupservice.usecases;
 
 public interface CategoryOutputBoundary {
-    CategoryResponse presentBadRequestFailure(String categoryAlreadyExists);
+    Object presentBadRequestFailure(String errorMessage);
 
-    CategoryResponse presentSuccessResponse(CategoryResponse categoryResponse);
+    Object presentRequestProcessingFailure(String errorMessage);
+
+    Object presentSuccessResponse(CategoryResponse categoryResponse);
 }
